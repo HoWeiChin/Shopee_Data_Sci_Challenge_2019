@@ -1,0 +1,2 @@
+max freq for category 3 is 81250
+min freq for category 57 is 48
